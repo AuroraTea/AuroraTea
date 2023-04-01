@@ -24,10 +24,10 @@
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff) -->
 
 ### Tool
-![My Skills](https://skillicons.dev/icons?i=vite,vscode,idea,git,ps,pr)
+![My Skills](https://skillicons.dev/icons?i=vite,vscode,idea,docker,ipfs,git,ps,pr)
 
 ### A little
-![My Skills](https://skillicons.dev/icons?i=nginx,docker,arduino,mongodb,sqlite,webpack,figma,firebase,linux)
+![My Skills](https://skillicons.dev/icons?i=nginx,arduino,mongodb,sqlite,webpack,figma,firebase,linux,androidstudio)
 
 ### Future Want
-![My Skills](https://skillicons.dev/icons?i=java,spring,ts,svelte,rust,tauri,wasm,blender)
+![My Skills](https://skillicons.dev/icons?i=java,spring,ts,svelte,solidjs,rust,tauri,actix,wasm,blender,kubernetes,zig)
